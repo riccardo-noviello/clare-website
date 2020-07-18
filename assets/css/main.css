@@ -2829,7 +2829,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 1em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -3327,3 +3327,13 @@ input, select, textarea {
 			}
 
 		}
+
+
+		
+	.background-cover {
+		background-image: url('../..//images/banner.jpg');
+		background-size: cover;
+		min-height: 400px;
+		width: 100%;
+	}
+	
